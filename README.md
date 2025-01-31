@@ -1,6 +1,6 @@
 - 👋 Hi, I’m oyepariola oluwalonimi
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Next.js 
 - 💞️ I’m looking to collaborate on anyone
 - 📫 oluwalonimioyepariola@gmail.com
 
