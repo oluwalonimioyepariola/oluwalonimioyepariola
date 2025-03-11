@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oyepariola Oluwalonimi</h1>
 <h3 align="center">Passionate Web Developer | Building Scalable & Intuitive Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oyepariolaoluwalonimi&label=Profile%20views&color=0e75b6&style=flat" alt="oyepariolaoluwalonimi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oyepariolaoluwalonimi&label=Profile%20views&color=0e75b6&style=flat" alt="oyepariolaoluwalonimi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oyepariolaoluwalonimi" alt="oyepariolaoluwalonimi" /></a> </p>
 
 # 💫 About Me:
 🌱 I’m currently learning solidy<br><br>👨‍💻 All of my projects are available at https://dub.sh/oluwalonimioyepariola<br><br>💬 Ask me about react, astro,framer motion.<br><br>📫 How to reach me oluwalonimioyepariola@gmail.com
