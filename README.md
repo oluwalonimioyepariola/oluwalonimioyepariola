@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oyepariolaoluwalonimi" alt="oyepariolaoluwalonimi" /></a> </p>
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=samuel&font=Redressed&quoteType=quote-for-the-day)
+
 <p align="left"> <a href="https://twitter.com/oluwalonimi_oye" target="blank"><img src="https://img.shields.io/twitter/follow/oluwalonimi_oye?logo=twitter&style=for-the-badge" alt="oluwalonimi_oye" /></a> </p>
 
 - 🌱 I’m currently learning more on **Next Js**
