@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oyepariolaoluwalonimi&show_icons=true&theme=dark&title_color=ffffff&text_color=d6d6d6&locale=en" alt="oyepariolaoluwalonimi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oyepariolaoluwalonimi&theme=dark" alt="oyepariolaoluwalonimi" /></p>
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> 
