@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning solidy<br><br>👨‍💻 All of my projects are available at https://dub.sh/oluwalonimioyepariola<br><br>💬 Ask me about react, astro,framer motion.<br><br>📫 How to reach me oluwalonimioyepariola@gmail.com
+🌱 I’m currently learning solidy<br><br>👨‍💻 All of my projects are available at https://dub.sh/oluwalonimioyepariola<br><br>💬 Ask me about next.js, react.js, astro.js, framer motion.<br><br>📫 How to reach me oluwalonimioyepariola@gmail.com
 
 
 ## 🌐 Socials:
